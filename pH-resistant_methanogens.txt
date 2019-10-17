@@ -1,3 +1,5 @@
+Names of the candidate pH-resistant methanogens: 
+ 
 proteome_03
 proteome_05
 proteome_07
